@@ -1,9 +1,6 @@
 <h1 align="center">💫 ABOUT ME</h1>
 
 ###
-
-<br clear="both">
-
 <h3 align="center">404 not found 🚀</h3>
 
 ###
