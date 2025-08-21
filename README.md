@@ -2,13 +2,10 @@
 
 ###
 <h3 align="center">404 not found 🚀</h3>
-
 ###
-
 <div align="center">
   <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhmdnFndnZvOGEyb2QxZDRxMTdycnM0dHduZ2Y3YWtxNjQ4ODByNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/XRNxTSmaJYYV9D13Fb/giphy.gif"  />
 </div>
-
 ###
 
 <h2 align="center">🌍 SOCIALS</h2>
