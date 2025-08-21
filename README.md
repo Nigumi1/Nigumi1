@@ -1,5 +1,5 @@
 # 💫 About Me:
-A highly skilled Full-Stack Developer/Software Engineer with extensive <br>experience in designing, developing, and maintaining dynamic web <br>applications.
+A highly skilled Full-Stack Developer/Software Engineer with extensive experience in designing, developing, and maintaining dynamic web applications.
 
 
 ## 🌐 Socials:
