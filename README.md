@@ -48,17 +48,6 @@
 </div>
 
 ###
-
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nigumi1/Nigumi1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nigumi1/Nigumi1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nigumi1/Nigumi1/output/pacman-contribution-graph.svg">
-</picture>
-
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nigumi1&locale=en&hide_title=true&layout=compact&card_width=400&langs_count=6&theme=vue-dark&hide_border=true" height="180" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Nigumi1&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="stats graph"  />
@@ -72,11 +61,5 @@
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Nigumi1&icon=10&color=4" alt="Profile Views Counter" />
-  </a>
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
