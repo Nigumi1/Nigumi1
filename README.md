@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="MSSQL" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" />
-  <img src="https://scalar.com/images/scalar-logo.svg" height="50" alt="Scalar" />
+  <img src="https://raw.githubusercontent.com/Nigumi1/assets/main/scalar-logo.svg" height="50" alt="Scalar" />
 </div>
 
 ###
